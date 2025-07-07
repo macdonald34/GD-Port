@@ -7,6 +7,9 @@ const Skills = () => (
       <li>Canva</li>
       <li>Picsart</li>
       <li>Photos</li>
+      <li>Photoshop</li>
+      <li>InDesign</li>
+      <li>Illustrator</li>
     </ul>
   </div>
 );

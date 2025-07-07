@@ -6,13 +6,13 @@ const AboutMe = () => (
     <div>
       <h2 className="text-xl font-bold">ABOUT ME</h2>
       <p className="mt-2">
-        Hello everyone, thank you for allowing me to introduce myself. My name is Abdul Muiz Alfatih.
-        I am 18 years old and from Indramayu, West Java. I am a content creator and editor.
+        Hello everyone, thank you for allowing me to introduce myself. My name is Macdonald Muhavi.
+        I am 22 years old and from Nairobi,Kenya. I am a content software developer and graphic designer.
       </p>
       <div className="mt-4">
         <p><strong>Contact me:</strong></p>
-        <p>📞 081321575245</p>
-        <p>📸 @alfatihmuiz</p>
+        <p>📞 0740940735</p>
+        <p>📸 @mac_moves_graphics</p>
       </div>
     </div>
   </div>
